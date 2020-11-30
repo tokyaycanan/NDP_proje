@@ -1,0 +1,20 @@
+C:\Users\Canan\source\repos\HayvanCiftligiProje\HayvanCiftligiProje\bin\Debug\HayvanCiftligiProje.exe.config
+C:\Users\Canan\source\repos\HayvanCiftligiProje\HayvanCiftligiProje\bin\Debug\HayvanCiftligiProje.exe
+C:\Users\Canan\source\repos\HayvanCiftligiProje\HayvanCiftligiProje\bin\Debug\HayvanCiftligiProje.pdb
+C:\Users\Canan\source\repos\HayvanCiftligiProje\HayvanCiftligiProje\obj\Debug\HayvanCiftligiProje.csprojAssemblyReference.cache
+C:\Users\Canan\source\repos\HayvanCiftligiProje\HayvanCiftligiProje\obj\Debug\HayvanCiftligiProje.Form1.resources
+C:\Users\Canan\source\repos\HayvanCiftligiProje\HayvanCiftligiProje\obj\Debug\HayvanCiftligiProje.Properties.Resources.resources
+C:\Users\Canan\source\repos\HayvanCiftligiProje\HayvanCiftligiProje\obj\Debug\HayvanCiftligiProje.csproj.GenerateResource.cache
+C:\Users\Canan\source\repos\HayvanCiftligiProje\HayvanCiftligiProje\obj\Debug\HayvanCiftligiProje.csproj.CoreCompileInputs.cache
+C:\Users\Canan\source\repos\HayvanCiftligiProje\HayvanCiftligiProje\obj\Debug\HayvanCiftligiProje.exe
+C:\Users\Canan\source\repos\HayvanCiftligiProje\HayvanCiftligiProje\obj\Debug\HayvanCiftligiProje.pdb
+D:\4.dönem\ndp\b161210061_Canan Tokyay_2A\HayvanCiftligiProje\bin\Debug\HayvanCiftligiProje.exe.config
+D:\4.dönem\ndp\b161210061_Canan Tokyay_2A\HayvanCiftligiProje\bin\Debug\HayvanCiftligiProje.exe
+D:\4.dönem\ndp\b161210061_Canan Tokyay_2A\HayvanCiftligiProje\bin\Debug\HayvanCiftligiProje.pdb
+D:\4.dönem\ndp\b161210061_Canan Tokyay_2A\HayvanCiftligiProje\obj\Debug\HayvanCiftligiProje.csprojAssemblyReference.cache
+D:\4.dönem\ndp\b161210061_Canan Tokyay_2A\HayvanCiftligiProje\obj\Debug\HayvanCiftligiProje.Form1.resources
+D:\4.dönem\ndp\b161210061_Canan Tokyay_2A\HayvanCiftligiProje\obj\Debug\HayvanCiftligiProje.Properties.Resources.resources
+D:\4.dönem\ndp\b161210061_Canan Tokyay_2A\HayvanCiftligiProje\obj\Debug\HayvanCiftligiProje.csproj.GenerateResource.cache
+D:\4.dönem\ndp\b161210061_Canan Tokyay_2A\HayvanCiftligiProje\obj\Debug\HayvanCiftligiProje.csproj.CoreCompileInputs.cache
+D:\4.dönem\ndp\b161210061_Canan Tokyay_2A\HayvanCiftligiProje\obj\Debug\HayvanCiftligiProje.exe
+D:\4.dönem\ndp\b161210061_Canan Tokyay_2A\HayvanCiftligiProje\obj\Debug\HayvanCiftligiProje.pdb
